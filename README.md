@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 @message.com
-message.com
+https://github.com/rickbabet/Trade-to-earn-without-labour
 <!---
 rickbabet/rickbabet is a ✨ special ✨ repository because its `MESSAGE.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
